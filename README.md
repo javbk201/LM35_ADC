@@ -1,4 +1,4 @@
-# LM35_ADC (Englis)
+# LM35_ADC (English)
 Using ESP32's ADC to obtain the value of temperature from a sensor LM35.
 
 This script was create using eclipse and ESP_IDF components. 
